@@ -1,0 +1,235 @@
+body {
+    background-color:  #8BD2E1;
+}
+
+#logo1 {
+	float: right;
+	
+}
+
+#logo2 {
+	text-align: center;
+}
+#navCenter {
+	width: 75em;
+	margin: 10 auto;	
+}
+
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+    width: 100%;
+    margin: 0 auto;	
+    height: 6em;
+}
+#section {
+    width:400px;
+    float:left;
+    padding:10px;	
+    width:962px; 
+    height:950px; 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+h1 {
+    font-size: 40px;
+}
+
+a {
+    display: block;
+    width: 210px;
+    
+}
+
+
+#nav {
+	width: 100%;
+	border: 1px solid black;
+	border-right: none;
+}
+
+#nav ul{
+overflow: hidden;
+margin: 0;
+padding: 0;		
+}
+
+#nav ul li {
+list-style: none;
+float: left;
+text-align: center;
+border-left: 1px solid black;
+border-right: 1px solid black;
+width: 24.8%;
+}
+
+#nav ul li:hover {
+background-color: white; 		
+}
+
+#nav ul li a {
+	display:block;
+	text-decoration: none;
+	color: black;
+	padding: 10px 0;
+	
+}
+
+#nav li ul {
+display: none;		
+}
+
+#nav ul li ul li {
+	border: 0;
+	width: 100%;
+	border: 2px gray solid;
+}
+
+#nav ul li:first-child {
+	border-bottom: none;
+}
+
+#nav li:hover ul {
+	display: block;
+	position: absolute;
+	background-color: white;
+	width: 23.6%;
+	
+}
+
+
+#contact_content {
+	width: 30em;
+	margin: 0em auto;
+	background-color: white;
+	padding: 2em;
+	margin-top: 2em;
+	
+}
+
+#contact_content label {
+	display: block;
+	float: left;
+	width: 10em;
+}
+
+
+
+#footer {
+	position: relative;
+	top: 2em;
+}
+#wrapper_2 {
+	width:99%;
+	margin:2em;
+	margin-left:0;
+	margin-bottom:5em;
+}
+
+#wrapper_2 #Method{
+	width: 30%;
+	background-color: #b0c4de;
+	border: 3px solid black;
+	float: left;
+	
+}
+
+#wrapper_2 #Method h3 {
+	text-align:center;
+}
+
+#wrapper_2 #Ingrediants {
+	width: 30%;
+	background-color: #b0c4de;
+	border: 3px solid black;
+	float: left;
+	margin-left: 3%;
+}
+
+#wrapper_2 #Ingrediants h3 {
+	text-align:center;
+}
+
+
+#wrapper_2 #Final_Image {
+	width: 30%;
+	float: left;
+	margin-left: 3%;
+	height: 25em;
+}
+
+#wrapper_2 #Final_Image img{
+	width: 100%;
+	position:relative;
+	top:0.5%;
+	
+}
+#wrapper_3 {
+	width:99%;
+	margin:2em;
+	margin-left:0;
+	margin-bottom:5em;
+}
+
+#wrapper_3 #Method{
+	width: 30%;
+	background-color: #b0c4de;
+	border: 3px solid black;
+	float: left;
+	
+}
+
+#wrapper_3 #Method h3 {
+	text-align:center;
+}
+
+#wrapper_3 #Ingrediants {
+	width: 30%;
+	background-color: #b0c4de;
+	border: 3px solid black;
+	float: left;
+	margin-left: 3%;
+}
+
+#wrapper_3 #Ingrediants h3 {
+	text-align:center;
+}
+
+
+#wrapper_3 #Final_Image {
+	width: 30%;
+	float: left;
+	margin-left: 3%;
+	height: 25em;
+}
+
+#wrapper_3 #Final_Image img{
+	width: 100%;
+	position:relative;
+	top:0.5%;
+	
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+
+#ing1 {
+	margin-left:1em; 
+}
+
+#ing2 {
+	margin-left:1em;
+}
