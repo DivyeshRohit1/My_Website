@@ -1,3 +1,3 @@
-CTEC 3905 - FRONT END WEB DEVELOPMENT
-My website work
+#CTEC 3905 - FRONT END WEB DEVELOPMENT
+#My website work
 I have chose to make a website about food recipes. The reason I chose to do this website is because it's something I have a passion for and also enjoy. I was considering doing something related to the course but I felt that I could do this in the future and I found it fun to create the website while talking about something else I am passionate about. I have created a homepage called index.html and created 4 other pages called gallery.html, contact.html, chinese.html, chicken.html. I have also added images and I have created a CSS to make my website look good and there is also a gallery.js file. gallery.html is my Gallery page which has pictures of food items, contact.html is my contact page where people could contact me, chicken.html is one of my recipe pages about Chicken curry and chinese.tml  is the other of my recipe page about Chinese food. 
